@@ -1,0 +1,59 @@
+header{
+    background-color: lightskyblue;
+}
+
+footer{
+    background-color: #0a8fc4;
+}
+
+
+h1{
+    font-size: 33px;
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+
+h1 i{
+    font-size: 17px;
+}
+
+h2{
+    font-size: 33px;
+    text-align: center;
+}
+
+main p{
+    text-align: center;
+    font-size: 17px;
+}
+
+h3{
+    font-size: 33px;
+    text-align: center;
+    color: white;
+}
+
+header p, a{
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.time{
+    text-align: center;
+}
+
+.button{
+    color: cornflowerblue;
+    padding: 10px;
+    border: 7px solid white;
+    border-radius: 30px;
+    background-color: white;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
