@@ -12,6 +12,7 @@ h1{
     text-align: center;
     margin: auto;
     color: white;
+    font-family: sans-serif;
 }
 
 h1 i{
@@ -21,17 +22,19 @@ h1 i{
 h2{
     font-size: 33px;
     text-align: center;
+    font-family: sans-serif;
 }
 
 main p{
     text-align: center;
-    font-size: 17px;
+    font-size: 22px;
 }
 
 h3{
     font-size: 33px;
     text-align: center;
     color: white;
+    font-family: sans-serif;
 }
 
 header p, a{
@@ -40,16 +43,29 @@ header p, a{
     text-decoration: none;
 }
 
+main p2{
+    font-size: 17px;
+}
+
 .time{
     text-align: center;
 }
 
 .button{
     color: cornflowerblue;
+    font-size: 17px;
     padding: 10px;
     border: 7px solid white;
     border-radius: 30px;
     background-color: white;
+}
+
+.button2{
+    color: white;
+    font-size: 17px;
+    padding: 15px;
+    border: 2px solid white;
+    border-radius: 30px;
 }
 
 footer p{
